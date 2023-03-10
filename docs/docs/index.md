@@ -21,6 +21,7 @@ Follow the tutorial to add an existing project or create a project from scratch.
     - This site is hosted on GitHub Pages. See if you like it. Other themes are available - see the tutorial.
 
 
-The aim here is not be complete or explain all concepts. It is to provide a reference for common steps and choices needed when setting up a docs site, but still at a beginner-friendly level.
+## Github Projects
+
 
 This guide is based on the [mkdocs.org](https://www.mkdocs.org/) tutorial.
