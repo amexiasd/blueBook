@@ -20,6 +20,7 @@ Follow the tutorial to add an existing project or create a project from scratch.
 - **View the live demo**
     - This site is hosted on GitHub Pages. See if you like it. Other themes are available - see the tutorial.
 
+test for github pages
 
 ## Github Projects
 
